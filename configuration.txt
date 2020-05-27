@@ -15,7 +15,7 @@ public class NewMain {
        System.out.println("is number 85 int the v List ??\n" + v.contains(85));
        v.replace(0,50);
        System.out.println("********************\n The item on the VList is : ");
-       v.display()
+       v.display();
     }
     
 }
